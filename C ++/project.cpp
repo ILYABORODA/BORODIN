@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"borodin";
+    cout<<"borodin 123";
 
     return 0;
 }
